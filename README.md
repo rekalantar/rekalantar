@@ -7,7 +7,7 @@ PhD Medical AI Researcher and Writer
 I’m a PhD student, conducting research in artificial intelligence (AI) in cancer imaging. I am highly interested in the intersection of deep learning, computer vision and medical technology innovation. My current research focuses on developing and implementing AI algorithms for data synthesis, domain adaptation, disease detection and automatic segmentation of pelvic cancers.
 
 * 🌍  I'm based in London, United Kingdom
-* 🖥️  See my portfolio at [my website](http://https://rekalantar.github.io/index.html)
+* 🖥️  See my portfolio at [my website](http://https://rekalantar.github.io)
 * 🧠  I'm learning Probabilistic denoising diffusion models, vision transformers and multi-modal training
 * 🤝  I'm open to collaborating on generative modelling, domain adaptive segmentation
 
