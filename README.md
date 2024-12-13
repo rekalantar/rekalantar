@@ -4,7 +4,7 @@ Hi 👋 My name is Reza Kalantar
 PhD Medical AI Researcher and Writer
 ------------------------------------
 
-I’m a PhD student, conducting research in artificial intelligence (AI) in cancer imaging. I am highly interested in the intersection of deep learning, computer vision and medical technology innovation. My current research focuses on developing and implementing AI algorithms for data synthesis, domain adaptation, disease detection and automatic segmentation of pelvic cancers.
+I’m a  artificial intelligence (AI) researcher, PhD in cancer imaging. I am highly interested in the intersection of deep learning, computer vision and medical technology innovation. My current research focuses on developing and implementing AI algorithms for data synthesis, domain adaptation, disease detection and automatic segmentation of pelvic cancers.
 
 * 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [my website](https://rekalantar.github.io/)
